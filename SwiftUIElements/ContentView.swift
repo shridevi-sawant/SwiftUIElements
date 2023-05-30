@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     
-    @State var address: String = "Enter Residential address"
+    @State var address: String = "Enter Postal address"
     @State var isContinue: Bool = false
     
     var body: some View {
