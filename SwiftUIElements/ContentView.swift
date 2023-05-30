@@ -31,7 +31,7 @@ struct ContentView: View {
                         .font(.system(size: 28))
                         .cornerRadius(10)
                     
-                    Button("OK") {
+                    Button("Continue") {
                         isContinue = true
                         print("Address: \(address)")
                     }
