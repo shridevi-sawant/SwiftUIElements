@@ -24,7 +24,7 @@ struct ContentView: View {
                         
                         .foregroundColor(.accentColor)
                         
-                    Text("Hello, world!")
+                    Text("Welcome to Cognizant")
                     TextEditor(text: $address)
                         .frame(height: 100)
                         .foregroundColor(.blue)
